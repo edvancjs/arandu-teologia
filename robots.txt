@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://teologia.aranduacademy.com.br/sitemap.xml
